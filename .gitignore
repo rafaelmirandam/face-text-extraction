@@ -15,5 +15,4 @@ __pycache__/
 *.log
 
 # Imagens ou dados grandes (se quiser manter local apenas)
-images/
 output/

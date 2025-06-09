@@ -1,0 +1,19 @@
+
+# Evita subir chaves e variáveis sensíveis
+.env
+
+# Arquivos temporários e de cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Pastas criadas pelo Jupyter
+.ipynb_checkpoints/
+
+# Saídas de execução (opcional)
+*.out
+*.log
+
+# Imagens ou dados grandes (se quiser manter local apenas)
+images/
+output/
